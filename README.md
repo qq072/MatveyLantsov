@@ -61,16 +61,22 @@ Screenshot #8
 
 Screenshot #9
 
+![image](https://github.com/qq072/MatveyLantsov/assets/103333884/fcbdbdaa-cf36-4d45-b311-42aaa4c75868)
 
 Screenshot #10
 
+![image](https://github.com/qq072/MatveyLantsov/assets/103333884/480f708d-85e6-43ba-aa7c-96f73b5a2735)
+
+
 Screenshot #11
+
+![image](https://github.com/qq072/MatveyLantsov/assets/103333884/2ec6e7bf-bbeb-4da6-b35f-1b48cebedb2a)
 
 Screenshot #12
 
+![image](https://github.com/qq072/MatveyLantsov/assets/103333884/cf429db0-8016-4d20-8452-4d8955d6ef60)
+
 Screenshot #13
 
-Screenshot #14
-
-Screenshot #15
+![image](https://github.com/qq072/MatveyLantsov/assets/103333884/172ff81d-2f7e-413a-a08c-4c717fa7e2b0)
 
