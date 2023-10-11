@@ -67,10 +67,10 @@ Screenshot #10
 Screenshot #11
 
 Screenshot #12
-![12](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/c0f2f5fd-43ee-4281-a66e-477d9204450c)
+
 Screenshot #13
-![13](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/3e553b72-f308-4509-a29f-634d26e3eecf)
+
 Screenshot #14
-![14](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/dbfbfe16-3b42-4ef7-9ba7-3e9af10e95b8)
+
 Screenshot #15
-![15](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/93af9025-a27c-4515-840b-8f194bea13f5)
+
