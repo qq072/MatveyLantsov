@@ -32,7 +32,7 @@ print(a)
 ```
 #### Результат:
 
-![image](https://github.com/qq072/MatveyLantsov/assets/103333884/e95da199-3e7a-43cb-a8b8-f99f1fa206d7
+![image](https://github.com/qq072/MatveyLantsov/assets/103333884/e95da199-3e7a-43cb-a8b8-f99f1fa206d7)
 
 #### Вывод: В данном коде цикл 'for' дважды прогоняет число 1 через две математические операции, *5 и +1, после чего подает результат, равный 31, на вывод.
 
